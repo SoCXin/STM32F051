@@ -14,6 +14,8 @@
 * [文档](docs/)
 * [资源](src/)
 
+stm320518_eval开发板基于STM32F051R8芯片，[STM32F0](https://github.com/sochub/STM32F0)同系列产品可通用相关资源，本库用于放置系统资源
+
 ### [选型建议](https://github.com/sochub/STM32F051)
 
 STM32F051x0超值系列在传统8位和16位市场极具竞争力，并可使用户免于不同架构平台迁徙和相关开发带来的额外工作。

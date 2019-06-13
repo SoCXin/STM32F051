@@ -24,8 +24,8 @@
  *
  * 1 tab == 4 spaces!
  */
-
-#include <FreeRTOSConfig.h>
+#include "../user/FreeRTOSConfig.h"
+//#include <FreeRTOSConfig.h>
 
 	RSEG    CODE:CODE(2)
 	thumb
