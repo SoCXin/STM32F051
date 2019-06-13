@@ -2,7 +2,7 @@
 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 #### 厂商：[ST](https://github.com/sochub/ST)
-#### 父级：[STM32](https://github.com/sochub/STM32)
+#### 父级：[STM32F0](https://github.com/sochub/STM32F0)
 #### 架构：[cortex M0](https://github.com/sochub/CM0)
 
 ## [描述](https://github.com/sochub/STM32F051) 
