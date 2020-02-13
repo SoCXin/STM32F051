@@ -1,9 +1,10 @@
 ﻿# [STM32F051](https://github.com/sochub/STM32F051)
 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
-#### 厂商：[ST](https://github.com/sochub/ST)
-#### 父级：[STM32F0](https://github.com/sochub/STM32F0)
-#### 架构：[cortex M0](https://github.com/sochub/CM0)
+[![sites](http://182.61.61.133/link/resources/docs.png)](https://stop.stops.top) 
+
+#### [Vendor](https://github.com/sochub/Vendor)：[ST](https://github.com/sochub/ST)
+#### [Cortex](https://github.com/sochub/Cortex)：[cortex M0](https://github.com/sochub/CM0)
+#### [Level](https://github.com/sochub/Level)：48MHz 
 
 ## [描述](https://github.com/sochub/STM32F051) 
 

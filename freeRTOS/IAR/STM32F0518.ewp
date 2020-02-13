@@ -11,7 +11,7 @@
             <name>General</name>
             <archiveVersion>3</archiveVersion>
             <data>
-                <version>31</version>
+                <version>28</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
@@ -20,11 +20,11 @@
                 </option>
                 <option>
                     <name>ObjPath</name>
-                    <state>Debug\obj</state>
+                    <state>Debug\Obj</state>
                 </option>
                 <option>
                     <name>ListPath</name>
-                    <state>Debug\list</state>
+                    <state>Debug\List</state>
                 </option>
                 <option>
                     <name>GEndianMode</name>
@@ -32,11 +32,11 @@
                 </option>
                 <option>
                     <name>Input description</name>
-                    <state>Full formatting, with multibyte support.</state>
+                    <state></state>
                 </option>
                 <option>
                     <name>Output description</name>
-                    <state>Full formatting, with multibyte support.</state>
+                    <state></state>
                 </option>
                 <option>
                     <name>GOutputBinary</name>
@@ -49,24 +49,24 @@
                 <option>
                     <name>GRuntimeLibSelect</name>
                     <version>0</version>
-                    <state>2</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>GRuntimeLibSelectSlave</name>
                     <version>0</version>
-                    <state>2</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>RTDescription</name>
-                    <state>Use the full configuration of the C/C++ runtime library. Full locale interface, C locale, file descriptor support, multibytes in printf and scanf, and hex floats in strtod.</state>
+                    <state></state>
                 </option>
                 <option>
                     <name>OGProductVersion</name>
-                    <state>4.41A</state>
+                    <state>8.11.1.13270</state>
                 </option>
                 <option>
                     <name>OGLastSavedByProductVersion</name>
-                    <state>8.40.1.21529</state>
+                    <state>8.11.1.13270</state>
                 </option>
                 <option>
                     <name>GeneralEnableMisra</name>
@@ -86,7 +86,7 @@
                 </option>
                 <option>
                     <name>GEndianModeBE</name>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>OGBufferedTerminalOutput</name>
@@ -112,12 +112,12 @@
                 </option>
                 <option>
                     <name>RTConfigPath2</name>
-                    <state>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</state>
+                    <state></state>
                 </option>
                 <option>
                     <name>GBECoreSlave</name>
-                    <version>27</version>
-                    <state>34</state>
+                    <version>25</version>
+                    <state>38</state>
                 </option>
                 <option>
                     <name>OGUseCmsis</name>
@@ -133,8 +133,8 @@
                 </option>
                 <option>
                     <name>CoreVariant</name>
-                    <version>27</version>
-                    <state>34</state>
+                    <version>25</version>
+                    <state>38</state>
                 </option>
                 <option>
                     <name>GFPUDeviceSlave</name>
@@ -156,8 +156,8 @@
                 </option>
                 <option>
                     <name>GFPUCoreSlave2</name>
-                    <version>27</version>
-                    <state>34</state>
+                    <version>25</version>
+                    <state>38</state>
                 </option>
                 <option>
                     <name>OGCMSISPackSelectDevice</name>
@@ -173,20 +173,20 @@
                 <option>
                     <name>OGPrintfVariant</name>
                     <version>0</version>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>OGPrintfMultibyteSupport</name>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>OGScanfVariant</name>
                     <version>0</version>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>OGScanfMultibyteSupport</name>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>GenLocaleTags</name>
@@ -196,37 +196,18 @@
                     <name>GenLocaleDisplayOnly</name>
                     <state></state>
                 </option>
-                <option>
-                    <name>DSPExtension</name>
-                    <state>0</state>
-                </option>
-                <option>
-                    <name>TrustZone</name>
-                    <state>0</state>
-                </option>
-                <option>
-                    <name>TrustZoneModes</name>
-                    <version>0</version>
-                    <state>0</state>
-                </option>
             </data>
         </settings>
         <settings>
             <name>ICCARM</name>
             <archiveVersion>2</archiveVersion>
             <data>
-                <version>35</version>
+                <version>34</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
-                    <name>CCOptimizationNoSizeConstraints</name>
-                    <state>0</state>
-                </option>
-                <option>
                     <name>CCDefines</name>
-                    <state>USE_STM320518_EVAL</state>
-                    <state>STM32F0XX</state>
-                    <state>USE_STDPERIPH_DRIVER</state>
+                    <state></state>
                 </option>
                 <option>
                     <name>CCPreprocFile</name>
@@ -238,7 +219,7 @@
                 </option>
                 <option>
                     <name>CCPreprocLine</name>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>CCListCFile</name>
@@ -266,7 +247,7 @@
                 </option>
                 <option>
                     <name>CCDiagSuppress</name>
-                    <state>Pa082</state>
+                    <state></state>
                 </option>
                 <option>
                     <name>CCDiagRemark</name>
@@ -311,7 +292,7 @@
                 </option>
                 <option>
                     <name>CCLangConformance</name>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>CCSignedPlainChar</name>
@@ -351,14 +332,7 @@
                 </option>
                 <option>
                     <name>CCIncludePath2</name>
-                    <state>$PROJ_DIR$\..\user\Libraries\STM32F0xx_StdPeriph_Driver\inc</state>
-                    <state>$PROJ_DIR$\..\user\Libraries\CMSIS\Device\ST\STM32F0xx\Include</state>
-                    <state>$PROJ_DIR$\..\user\Libraries\CMSIS\Include</state>
-                    <state>$PROJ_DIR$\..\user\Eval-Board</state>
-                    <state>$PROJ_DIR$\..\user</state>
-                    <state>$PROJ_DIR$\..\Source\include</state>
-                    <state>$PROJ_DIR$\..\Source\portable\IAR\ARM_CM0</state>
-                    <state>$PROJ_DIR$\..\Common\include</state>
+                    <state></state>
                 </option>
                 <option>
                     <name>CCStdIncCheck</name>
@@ -374,16 +348,16 @@
                 </option>
                 <option>
                     <name>CCOptLevel</name>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>CCOptStrategy</name>
                     <version>0</version>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>CCOptLevelSlave</name>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>CompilerMisraRules98</name>
@@ -425,7 +399,7 @@
                 </option>
                 <option>
                     <name>IccCppInlineSemantics</name>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>IccCmsis</name>
@@ -436,13 +410,17 @@
                     <state>0</state>
                 </option>
                 <option>
+                    <name>CCOptimizationNoSizeConstraints</name>
+                    <state>0</state>
+                </option>
+                <option>
                     <name>CCNoLiteralPool</name>
                     <state>0</state>
                 </option>
                 <option>
                     <name>CCOptStrategySlave</name>
                     <version>0</version>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>CCGuardCalls</name>
@@ -471,10 +449,6 @@
                 <option>
                     <name>IccRTTI2</name>
                     <state>0</state>
-                </option>
-                <option>
-                    <name>OICompilerExtraOption</name>
-                    <state>1</state>
                 </option>
             </data>
         </settings>
@@ -696,7 +670,7 @@
             <name>ILINK</name>
             <archiveVersion>0</archiveVersion>
             <data>
-                <version>23</version>
+                <version>20</version>
                 <wantNonLocal>1</wantNonLocal>
                 <debug>1</debug>
                 <option>
@@ -713,7 +687,7 @@
                 </option>
                 <option>
                     <name>IlinkOutputFile</name>
-                    <state>RTOSDemo.out</state>
+                    <state>STM32F0518.out</state>
                 </option>
                 <option>
                     <name>IlinkDebugInfoEnable</name>
@@ -773,11 +747,11 @@
                 </option>
                 <option>
                     <name>IlinkIcfOverride</name>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>IlinkIcfFile</name>
-                    <state>$PROJ_DIR$\..\user\stm32f0xx_flash.icf</state>
+                    <state>lnk0t.icf</state>
                 </option>
                 <option>
                     <name>IlinkIcfFileSlave</name>
@@ -837,7 +811,7 @@
                 </option>
                 <option>
                     <name>IlinkProgramEntryLabel</name>
-                    <state>__iar_program_start</state>
+                    <state></state>
                 </option>
                 <option>
                     <name>DoFill</name>
@@ -1007,30 +981,6 @@
                 <option>
                     <name>IlinkLocaleSelect</name>
                     <state>1</state>
-                </option>
-                <option>
-                    <name>IlinkTrustzoneImportLibraryOut</name>
-                    <state>STM32F0518_import_lib.o</state>
-                </option>
-                <option>
-                    <name>OILinkExtraOption</name>
-                    <state>1</state>
-                </option>
-                <option>
-                    <name>IlinkRawBinaryFile2</name>
-                    <state></state>
-                </option>
-                <option>
-                    <name>IlinkRawBinarySymbol2</name>
-                    <state></state>
-                </option>
-                <option>
-                    <name>IlinkRawBinarySegment2</name>
-                    <state></state>
-                </option>
-                <option>
-                    <name>IlinkRawBinaryAlign2</name>
-                    <state></state>
                 </option>
             </data>
         </settings>
