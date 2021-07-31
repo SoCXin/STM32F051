@@ -3,13 +3,21 @@
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
 * [ST](https://www.st.com/zh/): [Cortex-M0](https://github.com/SoCXin/Cortex)
-* [L3R3](https://github.com/SoCXin/Level): 48 MHz (150DMIPS/398CoreMark)
+* [L3R3](https://github.com/SoCXin/Level): 48 MHz (38DMIPS/106CoreMark)
 
 ## [描述](https://github.com/SoCXin/STM32F051)
 
 [STM32F051](https://github.com/SoCXin/STM32F051)意法半导体基于ARM Cortex®-M0的STM32 F0系列单片机实现了32位性能，同时传承了STM32系列的重要特性，特别适合成本敏感型应用。
 
 [![sites](docs/STM32F051.png)](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f0-series/stm32f0x1/stm32f051c8.html)
+
+### 关键特性
+
+* 12bit DAC
+* 12bit ADC
+* HDMI CEC接口
+
+
 
 ### [资源收录](https://github.com/SoCXin)
 
